@@ -1,0 +1,11 @@
+
+.container{
+    height: 200px;
+    width: 200px;
+    background-color: hotpink;
+}
+.content{
+    height: 100px;
+    width: 100px;
+    background-color: darkmagenta;
+}
