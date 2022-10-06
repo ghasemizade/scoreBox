@@ -1,11 +1,18 @@
 
-.container{
-    height: 200px;
-    width: 200px;
-    background-color: hotpink;
+*{
+    background-color: rgb(10, 43, 61);
 }
-.content{
-    height: 100px;
-    width: 100px;
-    background-color: darkmagenta;
+body{
+    display: flex;
+    justify-content: center;
+}
+.container{
+    height: 500px;
+    width: 400px;
+    position: absolute;
+    right: 25%;
+    left: 25%;
+    top: 25%;
+    bottom: 25%;
+    background-color: rgb(30, 43, 61);
 }
