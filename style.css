@@ -27,3 +27,9 @@ body{
     8px 30px 30px rgba(0, 0, 0, .5),
     inset -2px -2px 5px rgba(0, 0, 0, .2);
 }
+.container h2{
+    margin-bottom: 10px;
+    font-weight: 700;
+    color: aquamarine;
+    text-shadow: 2px 2px 2px #ff0000;
+}
